@@ -25,8 +25,8 @@
   --custom-secondary-bg: #0F2417;
   --custom-accent: #A24F0B;
   --custom-drop: #67929e;
-  --main-bird:url('hummingbird.jpg');
-  --night-bird: url('owl.jpg')
+  --main-bird:url('./images/hummingbird.jpg');
+  --night-bird: url('./images/owl.jpg');
   --path-value-1: var(20%);
   --path-value-2: var(80%);
   --path-value-3: var(100%);
